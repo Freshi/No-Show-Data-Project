@@ -1,4 +1,4 @@
-# Investigate a Dataset | No Show Appintments
+# Investigate a Dataset | No Show Appointments
 
 
 
